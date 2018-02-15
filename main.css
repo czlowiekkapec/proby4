@@ -1,0 +1,20 @@
+body{
+  background-color: #FFE4C4;
+}
+
+
+
+.cont1{
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.cont2{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+footer{
+  display: flex;
+  justify-content: space-between;
+}
